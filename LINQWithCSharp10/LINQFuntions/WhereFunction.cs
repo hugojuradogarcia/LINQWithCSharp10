@@ -14,7 +14,7 @@ public static class WhereFunction
             Console.WriteLine(numero);
         }
         
-        // Sintavis de metodos
+        // Sintaxis de metodos
         Console.WriteLine("(Sintaxis de metodos) Los numeros impares mayores de 20 son: ");
         var numerosImparesMayores10 = numeros.Where(n => n % 2 == 1 && n > 10).ToList();
         foreach (var numero in numerosImparesMayores10)
