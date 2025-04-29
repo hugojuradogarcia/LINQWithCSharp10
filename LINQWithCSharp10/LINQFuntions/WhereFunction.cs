@@ -1,4 +1,4 @@
-namespace LINQWithCSharp10;
+namespace LINQWithCSharp10.LINQFuntions;
 
 public static class WhereFunction
 {
