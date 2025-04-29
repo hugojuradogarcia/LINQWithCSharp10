@@ -10,6 +10,9 @@ switch (option)
     case "1":
         EjecucionDiferida.Ejecutar();
         break;
+    case "2":
+        WhereFunction.Ejecutar();
+        break;
     default:
         Console.WriteLine("Opción inválida");
         break;
