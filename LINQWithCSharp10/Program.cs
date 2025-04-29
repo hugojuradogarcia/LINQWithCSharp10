@@ -1,3 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using LINQWithCSharp10;
 
-Console.WriteLine("Hello, World!");
+
+Console.WriteLine("Selecciona una opcion para poder probar los diferentes features de LINQ con C# 10\n");
+Console.WriteLine("1- Ejecutar la clase EjecucionDiferida");
+var option = Console.ReadLine();
+
+switch (option)
+{
+    case "1":
+        EjecucionDiferida.Ejecutar();
+        break;
+    default:
+        Console.WriteLine("Opción inválida");
+        break;
+}

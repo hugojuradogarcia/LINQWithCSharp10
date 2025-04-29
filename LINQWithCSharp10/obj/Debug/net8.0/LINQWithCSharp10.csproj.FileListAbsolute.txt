@@ -1,0 +1,15 @@
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\bin\Debug\net8.0\LINQWithCSharp10.exe
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\bin\Debug\net8.0\LINQWithCSharp10.deps.json
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\bin\Debug\net8.0\LINQWithCSharp10.runtimeconfig.json
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\bin\Debug\net8.0\LINQWithCSharp10.dll
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\bin\Debug\net8.0\LINQWithCSharp10.pdb
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\obj\Debug\net8.0\LINQWithCSharp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\obj\Debug\net8.0\LINQWithCSharp10.AssemblyInfoInputs.cache
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\obj\Debug\net8.0\LINQWithCSharp10.AssemblyInfo.cs
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\obj\Debug\net8.0\LINQWithCSharp10.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\obj\Debug\net8.0\LINQWithCSharp10.sourcelink.json
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\obj\Debug\net8.0\LINQWithCSharp10.dll
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\obj\Debug\net8.0\refint\LINQWithCSharp10.dll
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\obj\Debug\net8.0\LINQWithCSharp10.pdb
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\obj\Debug\net8.0\LINQWithCSharp10.genruntimeconfig.cache
+C:\Users\Hugo Jurado\Documents\Cursos\C#\LINQWithCSharp10\LINQWithCSharp10\obj\Debug\net8.0\ref\LINQWithCSharp10.dll
