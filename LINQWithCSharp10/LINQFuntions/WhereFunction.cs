@@ -31,5 +31,23 @@ public static class WhereFunction
         {
             Console.WriteLine(numero);
         }
+        
+        Console.WriteLine("\nNumeros desordenados: ");
+
+        int[] numerosOrd = Enumerable.Range(1, 20).ToArray();
+        Random rnd = new Random();
+        
+        int[] numerosDesordenados = numerosOrd.OrderBy(x => rnd.Next()).ToArray();
+        foreach (var numero in numerosDesordenados)
+        {
+            Console.WriteLine(numero);
+        }
+        
+        Console.WriteLine("\nNumeros Ordenados: ");
+        int[] numerosOrdenados = numerosDesordenados.OrderBy(x => x).ToArray();
+        foreach (var numero in numerosOrdenados)
+        {
+            Console.WriteLine(numero);
+        }
     }
 }
