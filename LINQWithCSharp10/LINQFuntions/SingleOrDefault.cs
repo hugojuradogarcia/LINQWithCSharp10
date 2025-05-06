@@ -16,6 +16,6 @@ public class SingleOrDefault
         var personaMayor36 = (from p in personas
             where p.Edad > 36
             select p).Single();
-        Console.WriteLine("\nSingle persona soltera: " + personaMayor36.Nombre);
+        Console.WriteLine("\nSingle persona: " + personaMayor36.Nombre);
     }
 }
