@@ -7,6 +7,8 @@ Console.WriteLine("1- Ejecutar la clase EjecucionDiferida");
 Console.WriteLine("2- Ejecutar la clase WhereFunction");
 Console.WriteLine("3- Ejecutar la clase WhereWithObjects");
 Console.WriteLine("4- Ejecutar la clase FirstOrDefault");
+Console.WriteLine("5- Ejecutar la clase LastOrDefault");
+
 var option = Console.ReadLine();
 
 switch (option)
@@ -22,6 +24,9 @@ switch (option)
         break;
     case "4":
         FirstOrDefault.Ejecutar();
+        break;
+    case "5":
+        LastOrDefault.Ejecutar();
         break;
     
     default:

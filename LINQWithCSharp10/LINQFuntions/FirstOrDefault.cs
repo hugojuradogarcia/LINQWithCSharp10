@@ -19,9 +19,9 @@ public static class FirstOrDefault
         Console.WriteLine("\nFirstOrDefault persona no soltera: " + personas.FirstOrDefault(p => !p.Soltero)?.Nombre);
         
         // Sintaxis de query
-        var primerPersonaSoltera = (from p in personas
+        var primeraPersonaNoSoltera = (from p in personas
                 where !p.Soltero
                     select p).FirstOrDefault();
-        Console.WriteLine("\nFirstOrDefault persona no soltera: " + primerPersonaSoltera?.Nombre);
+        Console.WriteLine("\nFirstOrDefault persona no soltera: " + primeraPersonaNoSoltera?.Nombre);
     }
 }
