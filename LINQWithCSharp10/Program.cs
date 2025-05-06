@@ -9,6 +9,7 @@ Console.WriteLine("3- Ejecutar la clase WhereWithObjects");
 Console.WriteLine("4- Ejecutar la clase FirstOrDefault");
 Console.WriteLine("5- Ejecutar la clase LastOrDefault");
 Console.WriteLine("6- Ejecutar la clase ElementAtOrDefault");
+Console.WriteLine("7- Ejecutar la clase SingleAtOrDefault");
 
 var option = Console.ReadLine();
 
@@ -31,6 +32,9 @@ switch (option)
         break;
     case "6":
         ElementAtOrDefault.Ejecutar();
+        break;
+    case "7":
+        SingleOrDefault.Ejecutar();
         break;
     
     default:
